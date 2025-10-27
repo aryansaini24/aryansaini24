@@ -43,24 +43,12 @@ A comprehensive penetration testing toolkit that automates reconnaissance, vulne
 ### [SecurityOpsDashboard](https://github.com/aryansaini24/SecurityOpsDashboard)
 Real-time security operations dashboard that aggregates data from multiple security tools and provides unified visibility into an organization's security posture. Features include threat visualization, automated incident prioritization, KPI tracking, and integration with ticketing systems. Built with Flask, React, and integrated with Splunk and ELK Stack.
 
-## 🎓 Certifications
-
-- 🔐 **Certified Ethical Hacker (CEH)** - EC-Council
-- 🏆 **Certified Information Systems Security Professional (CISSP)** - (ISC)²
-- ⚡ **CompTIA Security+** - CompTIA
-- ☁️ **AWS Certified Security - Specialty** (In Progress)
 
 ## 📊 GitHub Stats
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryansaini24&show_icons=true&theme=radical)
 
-## 📫 Connect With Me
 
-- 💼 LinkedIn: [linkedin.com/in/aryansaini24](https://linkedin.com/in/aryansaini24)
-- 🐦 Twitter: [@aryansaini24](https://twitter.com/aryansaini24)
-- 📧 Email: aryan.saini@cybersec.com
-- 🌐 Portfolio: [aryansaini.dev](https://aryansaini.dev)
-- 📝 Blog: [aryansaini.dev/blog](https://aryansaini.dev/blog)
 
 ## 💡 Currently
 
